@@ -1,0 +1,53 @@
+Buildfile: file:///G:/Official/LaptopBackup/UIPixelTracker/globalhook2_src/build/pixtracker.build
+Target framework: Microsoft .NET Framework 2.0
+Target(s) specified: InstallDB 
+
+
+InstallDB:
+
+
+script.prerequisite:
+
+     [echo] Drop DB
+     [exec] Msg 3701, Level 11, State 1, Server MURALIN-PC, Line 1
+     [exec] Cannot drop the database 'pixtracker', because it does not exist or you do not have permission.
+     [echo] Create DB
+     [echo] create PIXTRACKER user
+     [exec] Changed database context to 'master'.
+     [echo] add PIXTRACKER user to DB
+
+script.generate:
+
+
+setup.changelogtable:
+
+     [echo] Setting up changelog table...
+
+script.execute:
+
+     [echo] Executing script G:\Official\LaptopBackup\UIPixelTracker\globalhook2_src\Build\Create DBDeploy ChangeLog table.sql against database pixtracker...
+     [echo] ...finished executing script.
+     [echo] ...finished setting up changelog table.
+     [echo] Calling dbdeploy with dbConnection..
+[loadtasks] Scanning assembly "Net.Sf.Dbdeploy" for extensions.
+     [echo] ...finished calling dbdeploy.
+
+script.execute:
+
+     [echo] Executing script G:\Official\LaptopBackup\UIPixelTracker\globalhook2_src\Database\o.sql against database pixtracker...
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [exec] (1 rows affected)
+     [echo] ...finished executing script.
+
+BUILD SUCCEEDED
+
+Total time: 1.3 seconds.
+

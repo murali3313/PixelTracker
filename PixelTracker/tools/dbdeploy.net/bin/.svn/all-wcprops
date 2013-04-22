@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/bcgreorg/!svn/ver/20365/reorg/trunk/tools/dbdeploy.net/bin
+END
+NAnt.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bcgreorg/!svn/ver/20365/reorg/trunk/tools/dbdeploy.net/bin/NAnt.Core.dll
+END
+dbdeploy.exe
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bcgreorg/!svn/ver/20365/reorg/trunk/tools/dbdeploy.net/bin/dbdeploy.exe
+END
+dbproviders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bcgreorg/!svn/ver/20365/reorg/trunk/tools/dbdeploy.net/bin/dbproviders.xml
+END
+dbdeploy.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bcgreorg/!svn/ver/20365/reorg/trunk/tools/dbdeploy.net/bin/dbdeploy.exe.config
+END
+Net.Sf.Dbdeploy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/bcgreorg/!svn/ver/20365/reorg/trunk/tools/dbdeploy.net/bin/Net.Sf.Dbdeploy.dll
+END

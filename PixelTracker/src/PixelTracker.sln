@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserActivityMonitor", "Gma.UserActivityMonitor\UserActivityMonitor.csproj", "{F52AA97E-180A-40ED-8F2B-09080171D6C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixTracker", "PixTracker\PixTracker.csproj", "{6E64C3E1-4CF6-4180-A978-612EA533A4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordAndPlayBack", "RecordAndPlayBack\RecordAndPlayBack.csproj", "{9781DC0C-6265-4509-A787-C1DC801E1879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52AA97E-180A-40ED-8F2B-09080171D6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52AA97E-180A-40ED-8F2B-09080171D6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52AA97E-180A-40ED-8F2B-09080171D6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52AA97E-180A-40ED-8F2B-09080171D6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E64C3E1-4CF6-4180-A978-612EA533A4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E64C3E1-4CF6-4180-A978-612EA533A4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E64C3E1-4CF6-4180-A978-612EA533A4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E64C3E1-4CF6-4180-A978-612EA533A4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9781DC0C-6265-4509-A787-C1DC801E1879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9781DC0C-6265-4509-A787-C1DC801E1879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9781DC0C-6265-4509-A787-C1DC801E1879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9781DC0C-6265-4509-A787-C1DC801E1879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

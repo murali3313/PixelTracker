@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<project name="databasedeploy" default="InstallDB" basedir="." >
+
+<target name="InstallDB" description="Install Db for Pix Tracker">
+<property name="build.dir" value="${directory::get-current-directory()}"/>
+<property name="script.execute.extraparams" value="" />
+<property name="database" value="pixtracker" />
+<property name="pixtracker.database.server.name" value="${environment::get-machine-name()}\"/>
+<call target="script.prerequisite"/>
+<call target="script.generate"/>
+<property name="script.execute.filename" value="${build.dir}\Database\o.sql" />
+<call target="script.execute"/>
+
+</target>
+
+<target name="script.prerequisite" description="Install Db for Pix Tracker">
+	<echo message="Drop DB" />	
+    <exec program="sqlcmd" commandline=" -S ${pixtracker.database.server.name} -d master -Q &quot;DROP DATABASE ${database}&quot;"/>
+	  <echo message="Create DB" />
+    <exec program="sqlcmd" commandline=" -S ${pixtracker.database.server.name} -d master -Q &quot;CREATE DATABASE ${database}&quot;"/>
+    <echo message="create PIXTRACKER user" />
+	<exec program="sqlcmd"   commandline=" -S ${pixtracker.database.server.name}  -d ${database} -i createpixtrackerUser.sql"/>
+	<echo message="add PIXTRACKER user to DB" />
+    <exec program="sqlcmd"   commandline=" -S ${pixtracker.database.server.name}  -d ${database} -i addUserToDatabase.sql"/>
+</target>
+
+<target name="script.generate" description="generate a sql upgrade script">
+ <call target="setup.changelogtable"/>
+    <echo message="Calling dbdeploy with dbConnection.." />
+	<loadtasks assembly="${build.dir}/tools/dbdeploy.net/bin/Net.Sf.Dbdeploy.dll" />
+    <dbdeploy dbType="mssql" dbConnection="Server=${pixtracker.database.server.name};Initial Catalog=pixtracker;Integrated Security=True"
+				dir="${build.dir}/Database/Scripts/"
+				outputFile="${build.dir}/Database/o.sql"
+				undoOutputFile="${build.dir}/Database/ou.sql" />
+    <echo message="...finished calling dbdeploy." />
+</target>
+
+
+<target name="script.execute">
+    <echo message="Executing script ${script.execute.filename} against database ${database}..." />
+    <exec program="sqlcmd.exe">
+      <arg value="${script.execute.extraparams}" />
+      <arg value="-i" />
+      <arg value="${script.execute.filename}" />
+      <arg value="-d" />
+      <arg value="${database}" />
+      <arg value="-S"/>
+      <arg value="${pixtracker.database.server.name}" />
+    </exec>
+    <echo message="...finished executing script." />
+  </target>
+  
+  <target name="setup.changelogtable" description="create changelog table for use by dbdeploy">
+    <echo message="Setting up changelog table..." />
+    <property name="script.execute.filename" value="${build.dir}\Build\Create DBDeploy ChangeLog table.sql" />
+    <property name="script.execute.extraparams" value="" />
+    <call target="script.execute"/>
+    <echo message="...finished setting up changelog table." />
+  </target>
+  
+</project>

@@ -1,0 +1,28 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8ADA2C64-29A1-4543-99A8-BC80B6BC88C7/f:PixTracker.cs" caret="270" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8ADA2C64-29A1-4543-99A8-BC80B6BC88C7/f:PixTracker.cs" caret="559" fromTop="17" />
+      <File id="8ADA2C64-29A1-4543-99A8-BC80B6BC88C7/f:PixTracker.cs" caret="414" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/bcgreorg/!svn/ver/16660/reorg/trunk/tools/Nant/bin/lib
+END
+NUnitCore.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/bcgreorg/!svn/ver/16660/reorg/trunk/tools/Nant/bin/lib/NUnitCore.dll
+END
+NantTasks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/bcgreorg/!svn/ver/16660/reorg/trunk/tools/Nant/bin/lib/NantTasks.dll
+END
+ICSharpCode.SharpZipLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bcgreorg/!svn/ver/16660/reorg/trunk/tools/Nant/bin/lib/ICSharpCode.SharpZipLib.dll
+END
+NantTasks.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/bcgreorg/!svn/ver/16660/reorg/trunk/tools/Nant/bin/lib/NantTasks.pdb
+END
+ICSharpCode.SharpCvsLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/bcgreorg/!svn/ver/16660/reorg/trunk/tools/Nant/bin/lib/ICSharpCode.SharpCvsLib.dll
+END
+ICSharpCode.SharpCvsLib.Console.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/bcgreorg/!svn/ver/16660/reorg/trunk/tools/Nant/bin/lib/ICSharpCode.SharpCvsLib.Console.dll
+END

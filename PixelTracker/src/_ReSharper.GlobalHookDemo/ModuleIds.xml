@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="F52AA97E-180A-40ED-8F2B-09080171D6C7" ModuleId="Gma.UserActivityMonitor" />
+  <Module PersistentId="EBA5CBDF-2049-4278-93A2-AFFD3C802715" ModuleId="Gma.UserActivityMonitorDemo" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System" />
+  <Module PersistentId="6E64C3E1-4CF6-4180-A978-612EA533A4E7" ModuleId="PixTracker" />
+  <Module PersistentId="9781DC0C-6265-4509-A787-C1DC801E1879" ModuleId="RecordAndPlayBack" />
+  <Module PersistentId="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Drawing" />
+</Modules>

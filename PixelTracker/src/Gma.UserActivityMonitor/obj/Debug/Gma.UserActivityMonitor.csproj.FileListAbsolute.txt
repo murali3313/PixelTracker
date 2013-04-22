@@ -1,0 +1,11 @@
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\ResolveAssemblyReference.cache
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb
+G:\Official\LaptopBackup\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.xml
+G:\Official\LaptopBackup\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.dll
+G:\Official\LaptopBackup\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\bin\Debug\Gma.UserActivityMonitor.pdb
+G:\Official\LaptopBackup\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.csprojResolveAssemblyReference.cache
+G:\Official\LaptopBackup\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.dll
+G:\Official\LaptopBackup\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitor\obj\Debug\Gma.UserActivityMonitor.pdb

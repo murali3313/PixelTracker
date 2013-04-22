@@ -1,0 +1,11 @@
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitorDemo.exe
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitorDemo.pdb
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitor.dll
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\bin\Debug\Gma.UserActivityMonitor.pdb
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.TestFormStatic.resources
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.TestFormComponent.resources
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.Properties.Resources.resources
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.csproj.GenerateResource.Cache
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.exe
+D:\UIPixelTracker\globalhook2_src\GlobalHook\Gma.UserActivityMonitorDemo\obj\Debug\Gma.UserActivityMonitorDemo.pdb

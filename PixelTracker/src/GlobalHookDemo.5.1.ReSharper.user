@@ -1,0 +1,682 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="globalEventProvider" priority="0" />
+      <Item value="IDataRecord`0" priority="0" />
+      <Item value="public" priority="4" />
+      <Item value="enum" priority="1" />
+      <Item value="void" priority="3" />
+      <Item value="GlobalAction`0" priority="0" />
+      <Item value="EventArgs`0" priority="3" />
+      <Item value="List&lt;EventArgs&gt;" priority="1" />
+      <Item value="actionArgs" priority="0" />
+      <Item value="AddingNewEventArgs`0" priority="0" />
+      <Item value="new" priority="69" />
+      <Item value="RecordAction`0" priority="2" />
+      <Item value="recAct" priority="10" />
+      <Item value="GlobalActionType`0" priority="0" />
+      <Item value="RecordAndPlayBack" priority="0" />
+      <Item value="recordedAction" priority="2" />
+      <Item value="prop" priority="12" />
+      <Item value="List" priority="4" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="2" />
+      <Item value="Windows.Forms" priority="0" />
+      <Item value="foreach" priority="7" />
+      <Item value="mouseArgs" priority="6" />
+      <Item value="PlayBack`0" priority="3" />
+      <Item value="playBack" priority="3" />
+      <Item value="SetCursorPos`0" priority="0" />
+      <Item value="_Thread`0" priority="0" />
+      <Item value="Threading" priority="1" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="MessageBox`0" priority="2" />
+      <Item value="true" priority="11" />
+      <Item value="false" priority="11" />
+      <Item value="IsMouseButtonDown" priority="1" />
+      <Item value="if" priority="17" />
+      <Item value="bool" priority="2" />
+      <Item value="isMouseButtonDown" priority="0" />
+      <Item value="e" priority="14" />
+      <Item value="is" priority="3" />
+      <Item value="MouseEventExtArgs`0" priority="1" />
+      <Item value="var" priority="5" />
+      <Item value="eventArgs" priority="9" />
+      <Item value="as" priority="3" />
+      <Item value="else" priority="5" />
+      <Item value="KeyEventArgs`0" priority="3" />
+      <Item value="SendKeys`0" priority="0" />
+      <Item value="keyArgs" priority="1" />
+      <Item value="char" priority="1" />
+      <Item value="Thread" priority="0" />
+      <Item value="ParameterizedThreadStart" priority="0" />
+      <Item value="CreateLambda" priority="6" />
+      <Item value="thread" priority="1" />
+      <Item value="globalEventProvider_KeyUp`0" priority="0" />
+      <Item value="ctor" priority="1" />
+      <Item value="private" priority="2" />
+      <Item value="DateTime`0" priority="2" />
+      <Item value="EventArgsAndTimeTaken`0" priority="0" />
+      <Item value="lagTime" priority="3" />
+      <Item value="currentTime" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="lastActionTime" priority="0" />
+      <Item value="screenCapture" priority="2" />
+      <Item value="ScreenCapture" priority="0" />
+      <Item value="AssertBox`0" priority="5" />
+      <Item value="assertBox" priority="3" />
+      <Item value="captureScreen" priority="0" />
+      <Item value="picAssertScreenShot" priority="12" />
+      <Item value="value" priority="1" />
+      <Item value="int" priority="6" />
+      <Item value="xCoOrdinate" priority="1" />
+      <Item value="width" priority="7" />
+      <Item value="height" priority="5" />
+      <Item value="Graphics`0" priority="4" />
+      <Item value="Math`0" priority="0" />
+      <Item value="region" priority="5" />
+      <Item value="Rectangle" priority="0" />
+      <Item value="Image`0" priority="6" />
+      <Item value="graphicsPath" priority="0" />
+      <Item value="null" priority="3" />
+      <Item value="image" priority="0" />
+      <Item value="clip" priority="1" />
+      <Item value="ImageListStreamer`0" priority="0" />
+      <Item value="imageStream" priority="1" />
+      <Item value="Bitmap`0" priority="2" />
+      <Item value="bitmap" priority="2" />
+      <Item value="clonedImage" priority="8" />
+      <Item value="List&lt;Image&gt;" priority="1" />
+      <Item value="Pen" priority="0" />
+      <Item value="Brush`0" priority="1" />
+      <Item value="Color" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="markingColor" priority="0" />
+      <Item value="Color`0" priority="2" />
+      <Item value="markingRect" priority="2" />
+      <Item value="assertionImages" priority="1" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="Font" priority="1" />
+      <Item value="FontFamily" priority="0" />
+      <Item value="GenericFontFamilies" priority="0" />
+      <Item value="GenericFontFamilies`0" priority="0" />
+      <Item value="Pixel" priority="0" />
+      <Item value="SolidBrush`0" priority="0" />
+      <Item value="RectangleF" priority="1" />
+      <Item value="PointF" priority="0" />
+      <Item value="startPointX" priority="1" />
+      <Item value="startPointY" priority="1" />
+      <Item value="ImageCompare`0" priority="1" />
+      <Item value="img2" priority="0" />
+      <Item value="unMatchCount" priority="1" />
+      <Item value="return" priority="2" />
+      <Item value="ScreenCapture`0" priority="0" />
+      <Item value="AssertionList`0" priority="2" />
+      <Item value="assertionImage" priority="6" />
+      <Item value="AssertionData" priority="1" />
+      <Item value="float" priority="6" />
+      <Item value="AssertionData`0" priority="3" />
+      <Item value="CropInfo`0" priority="1" />
+      <Item value="startXPoint" priority="0" />
+      <Item value="startYPoint" priority="0" />
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="1" />
+      <Item value="cropInfo" priority="0" />
+      <Item value="assertionData" priority="1" />
+      <Item value="data" priority="1" />
+      <Item value="imageComparer" priority="0" />
+      <Item value="btnStartAssertion" priority="8" />
+      <Item value="AssertionImages" priority="1" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="IFeatureSupport`0" priority="0" />
+      <Item value="this" priority="14" />
+      <Item value="event" priority="1" />
+      <Item value="delegate" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="SaveRreason" priority="1" />
+      <Item value="txtFailureReason" priority="1" />
+      <Item value="assertiondatum" priority="1" />
+      <Item value="ReasonBox`0" priority="0" />
+      <Item value="reasonBox" priority="1" />
+      <Item value="compareImage" priority="0" />
+      <Item value="assertionDatum" priority="3" />
+      <Item value="AssertionReports`0" priority="0" />
+      <Item value="assertionReports" priority="1" />
+      <Item value="dgReports" priority="1" />
+      <Item value="Boolean`0" priority="0" />
+      <Item value="GetKeyState`0" priority="0" />
+      <Item value="keyValue" priority="5" />
+      <Item value="RecordAction" priority="2" />
+      <Item value="AssertionList" priority="0" />
+      <Item value="lblFailureNum" priority="0" />
+      <Item value="break" priority="0" />
+      <Item value="btnRecordStart`0" priority="0" />
+      <Item value="UnSubscribeForClickEventsAndRemoveLastClickActions`0" priority="1" />
+      <Item value="btnRecordStart" priority="0" />
+      <Item value="btnStartPlayBack" priority="1" />
+      <Item value="Resources`0" priority="1" />
+      <Item value="UserControl`0" priority="0" />
+      <Item value="NewScenario`0" priority="0" />
+      <Item value="pnlContainer" priority="2" />
+      <Item value="newScenario" priority="0" />
+      <Item value="UnSubscribeMouseKeyAction`0" priority="1" />
+      <Item value="btnFlushAll" priority="1" />
+      <Item value="IsSuccess" priority="0" />
+      <Item value="IAssertionAction`0" priority="2" />
+      <Item value="AssertionAction" priority="4" />
+      <Item value="scenarioActioAssertion" priority="2" />
+      <Item value="action" priority="2" />
+      <Item value="AssertionAction`0" priority="2" />
+      <Item value="playBack`0" priority="0" />
+      <Item value="StartPosition" priority="1" />
+      <Item value="FormStartPosition`0" priority="0" />
+      <Item value="TopLevel" priority="0" />
+      <Item value="Location" priority="1" />
+      <Item value="DesktopLocation" priority="0" />
+      <Item value="Point" priority="4" />
+      <Item value="CenterScreen" priority="1" />
+      <Item value="FindForm`0" priority="6" />
+      <Item value="Manual" priority="0" />
+      <Item value="Screen`0" priority="1" />
+      <Item value="primaryScreen" priority="0" />
+      <Item value="screenWidth" priority="0" />
+      <Item value="parentForm" priority="7" />
+      <Item value="screenHeight" priority="0" />
+      <Item value="startPositionLeft" priority="0" />
+      <Item value="startPositionTop" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="ParentForm" priority="0" />
+      <Item value="BringToFront`0" priority="0" />
+      <Item value="UnsubscribeForMouseMove`0" priority="0" />
+      <Item value="SubScribeForMouseMove`0" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="Repository" priority="1" />
+      <Item value="repository" priority="1" />
+      <Item value="order" priority="2" />
+      <Item value="Repository`0" priority="2" />
+      <Item value="taken" priority="0" />
+      <Item value="actionOrder" priority="2" />
+      <Item value="pkactionID" priority="1" />
+      <Item value="txtScenarioDesc" priority="0" />
+      <Item value="ExpectedImage" priority="2" />
+      <Item value="MemoryStream" priority="0" />
+      <Item value="memoryStream" priority="1" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="ImageFormat" priority="0" />
+      <Item value="pkassertionID" priority="1" />
+      <Item value="assertionOrder" priority="3" />
+      <Item value="imageDetails" priority="1" />
+      <Item value="SqlParameter" priority="0" />
+      <Item value="Int" priority="0" />
+      <Item value="Value" priority="0" />
+      <Item value="assertionIDParam" priority="0" />
+      <Item value="expectedImageParam" priority="0" />
+      <Item value="assertionOrderParam" priority="0" />
+      <Item value="AssertionIndex" priority="1" />
+      <Item value="CropInfo" priority="5" />
+      <Item value="xParam" priority="0" />
+      <Item value="yparam" priority="0" />
+      <Item value="heightParam" priority="0" />
+      <Item value="widthParam" priority="0" />
+      <Item value="eventArgsAndTimeTaken" priority="2" />
+      <Item value="args" priority="0" />
+      <Item value="Right" priority="0" />
+      <Item value="mouse_event`0" priority="0" />
+      <Item value="MouseEventType`0" priority="0" />
+      <Item value="MouseEventArgs" priority="0" />
+      <Item value="MouseEventArgs`0" priority="2" />
+      <Item value="X" priority="3" />
+      <Item value="IsCapsLockON" priority="1" />
+      <Item value="FailureReason" priority="1" />
+      <Item value="ViewEditScenario" priority="0" />
+      <Item value="viewEditScenario" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="scenarioTable" priority="0" />
+      <Item value="DataRow`0" priority="2" />
+      <Item value="List&lt;Scenario&gt;" priority="0" />
+      <Item value="Scenario`0" priority="0" />
+      <Item value="scenarioList" priority="0" />
+      <Item value="scenario" priority="1" />
+      <Item value="Convert`0" priority="3" />
+      <Item value="scenarioRow" priority="2" />
+      <Item value="ScenarioPlayResult`0" priority="0" />
+      <Item value="scenarioPlayResult" priority="2" />
+      <Item value="Double`0" priority="0" />
+      <Item value="ScenarioDetails" priority="4" />
+      <Item value="Scenario" priority="0" />
+      <Item value="List&lt;IAssertionAction&gt;" priority="0" />
+      <Item value="assertion" priority="1" />
+      <Item value="ScenarioID" priority="0" />
+      <Item value="Enum`0" priority="1" />
+      <Item value="typeof" priority="1" />
+      <Item value="TestType`0" priority="2" />
+      <Item value="testType" priority="0" />
+      <Item value="testTypeEnum" priority="0" />
+      <Item value="row" priority="0" />
+      <Item value="assertionActions" priority="0" />
+      <Item value="recordAction" priority="1" />
+      <Item value="assertionAction" priority="1" />
+      <Item value="playAssertCollection" priority="1" />
+      <Item value="ID" priority="0" />
+      <Item value="EventArgsAndTimeTaken" priority="0" />
+      <Item value="pk_ID" priority="1" />
+      <Item value="isCapsLockON" priority="0" />
+      <Item value="IsMouseAction" priority="0" />
+      <Item value="MouseButtons`0" priority="0" />
+      <Item value="Y" priority="0" />
+      <Item value="Keys" priority="1" />
+      <Item value="KeyEventExtArgs" priority="0" />
+      <Item value="Keys`0" priority="2" />
+      <Item value="assertionImageData" priority="0" />
+      <Item value="failureReason" priority="0" />
+      <Item value="ImageConverter`0" priority="0" />
+      <Item value="ImageConverter" priority="0" />
+      <Item value="ic" priority="0" />
+      <Item value="expectedImage" priority="0" />
+      <Item value="try" priority="1" />
+      <Item value="MouseEventExtArgs" priority="0" />
+      <Item value="mouseButtonToggle" priority="1" />
+      <Item value="cntPanel" priority="0" />
+      <Item value="OnLoad`0" priority="1" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="ReLoadScenarioList" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Gma.UserActivityMonitor.GlobalEventProvider">
+      <Item value="MouseClick" priority="0" />
+      <Item value="KeyUp" priority="1" />
+      <Item value="MouseMove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="8" />
+      <Item value="Count" priority="3" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="ForEach`0" priority="3" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.RecordAction">
+      <Item value="Record`0" priority="0" />
+      <Item value="ActionArgs" priority="1" />
+      <Item value="actionArgs" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RecordAndPlayBack.GlobalActionType">
+      <Item value="MouseClick" priority="0" />
+      <Item value="KeyIn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.PlayBack">
+      <Item value="Play`0" priority="0" />
+      <Item value="Assert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MouseEventArgs">
+      <Item value="X" priority="7" />
+      <Item value="Y" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="0" />
+      <Item value="Sleep`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Gma.UserActivityMonitor.MouseEventExtArgs">
+      <Item value="IsMouseButtonDown" priority="0" />
+      <Item value="Button" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.SendKeys">
+      <Item value="Send`0" priority="1" />
+      <Item value="SendWait`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="ConvertFromUtf32`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyValue" priority="3" />
+      <Item value="KeyData" priority="0" />
+      <Item value="Shift" priority="0" />
+      <Item value="Control" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="0" />
+      <Item value="Join`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Subtract`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.EventArgsAndTimeTaken">
+      <Item value="eventArgs" priority="0" />
+      <Item value="lagTime" priority="0" />
+      <Item value="IsCapsLockON" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.IRecordAction">
+      <Item value="ActionArgs" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.ScreenCapture">
+      <Item value="CaptureScreen`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixTracker.AssertBox">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Closing" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Graphics">
+      <Item value="FromImage`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="Clip" priority="1" />
+      <Item value="CopyFromScreen`0" priority="0" />
+      <Item value="SetClip`0" priority="0" />
+      <Item value="DrawImageUnscaledAndClipped`0" priority="0" />
+      <Item value="FillRectangle`0" priority="0" />
+      <Item value="DrawImageUnscaled`0" priority="0" />
+      <Item value="DrawRectangle`0" priority="0" />
+      <Item value="DrawString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Region">
+      <Item value="GetRegionData`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Drawing2D.RegionData">
+      <Item value="Data" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Save`0" priority="0" />
+      <Item value="Clone`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Clone`0" priority="0" />
+      <Item value="PixelFormat" priority="0" />
+      <Item value="Dispose`0" priority="1" />
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Red" priority="1" />
+      <Item value="Green" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="FontFamily" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Text.GenericFontFamilies">
+      <Item value="Serif" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PixTracker.AssertBox">
+      <Item value="AssertionImages" priority="1" />
+      <Item value="AssertionData" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.AssertionList">
+      <Item value="AssertionData" priority="1" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.AssertionData">
+      <Item value="cropInfo" priority="3" />
+      <Item value="clonedImage" priority="0" />
+      <Item value="FailureReason" priority="0" />
+      <Item value="assertionIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.CropInfo">
+      <Item value="X" priority="2" />
+      <Item value="Y" priority="1" />
+      <Item value="Width" priority="2" />
+      <Item value="Height" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.ImageCompare">
+      <Item value="CompareImage`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="7" />
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixTracker.ReasonBox">
+      <Item value="SaveRreason" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixTracker.AssertionReports">
+      <Item value="AssertionList" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixTracker.PixTracker">
+      <Item value="SendToBack`0" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="Top" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PixTracker.Properties.Resources">
+      <Item value="NewScenario_AssertionStart_Start_Assertion" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Controls" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="2" />
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixTracker.NewScenario">
+      <Item value="Parent" priority="0" />
+      <Item value="FindForm`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.IAssertionAction">
+      <Item value="Execute`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.RecordAction+PlayBack">
+      <Item value="Play`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.AssertionAction">
+      <Item value="Add`0" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RecordAndPlayBack.PlayBack">
+      <Item value="CompleteAssertionList" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="StartPosition" priority="1" />
+      <Item value="Location" priority="4" />
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="0" />
+      <Item value="SendToBack`0" priority="1" />
+      <Item value="TopMost" priority="0" />
+      <Item value="TopLevel" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Screen">
+      <Item value="GetBounds`0" priority="0" />
+      <Item value="PrimaryScreen" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Screen">
+      <Item value="WorkingArea" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Rectangle">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RecordAndPlayBack.Repository">
+      <Item value="Instance" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RecordAndPlayBack.Repository">
+      <Item value="ExecuteNonQuery`0" priority="2" />
+      <Item value="ExecuteScalar`1" priority="0" />
+      <Item value="ExecuteStoredProcedure`0" priority="0" />
+      <Item value="LoadDataTableWithQuery`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RecordAndPlayBack.TestType">
+      <Item value="Action" priority="1" />
+      <Item value="Assertion" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Imaging.ImageFormat">
+      <Item value="Bmp" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="GetBuffer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlDbType">
+      <Item value="Image" priority="0" />
+      <Item value="Int" priority="3" />
+      <Item value="NVarChar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MouseButtons">
+      <Item value="Left" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RecordAndPlayBack.MouseEventType">
+      <Item value="RightDown" priority="0" />
+      <Item value="LeftUp" priority="0" />
+      <Item value="LeftDown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="2" />
+      <Item value="AsDataView`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="3" />
+      <Item value="ToBoolean`0" priority="2" />
+      <Item value="ToInt16`0" priority="4" />
+      <Item value="ToInt64`0" priority="0" />
+      <Item value="ToInt32`0" priority="2" />
+      <Item value="ToDecimal`0" priority="0" />
+      <Item value="ToDouble`0" priority="0" />
+      <Item value="ToByte`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixTracker.ViewEditScenario">
+      <Item value="Controls" priority="1" />
+      <Item value="cntPanel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalMilliseconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Cast`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="OrderBy`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Enter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Keys">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixTracker.ScenarioPlayResult">
+      <Item value="ReLoadScenarioList" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:ScreenCapture.cs" caret="2602" fromTop="9" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:AssertBox.Designer.cs" caret="216" fromTop="2" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ReasonBox.cs" caret="227" fromTop="10" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:Program.cs" caret="492" fromTop="18" />
+      <File id="F52AA97E-180A-40ED-8F2B-09080171D6C7/f:HookManager.cs" caret="1824" fromTop="8" />
+      <File id="F52AA97E-180A-40ED-8F2B-09080171D6C7/f:KeyEventExtArgs.cs" caret="277" fromTop="12" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:ImageCompare.cs" caret="726" fromTop="21" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:PixTracker.Designer.cs" caret="7024" fromTop="7" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:PlayBack.cs" caret="235" fromTop="7" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:AssertionReports.cs" caret="640" fromTop="17" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:NewScenario.Designer.cs" caret="6532" fromTop="12" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:SqlStatementFormatter.cs" caret="0" fromTop="0" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:ColumnMappingCollection.cs" caret="465" fromTop="14" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:Extension.cs" caret="560" fromTop="18" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:App.config" caret="94" fromTop="3" />
+      <File id="F52AA97E-180A-40ED-8F2B-09080171D6C7/f:MouseEventExtArgs.cs" caret="340" fromTop="5" />
+      <File id="F52AA97E-180A-40ED-8F2B-09080171D6C7/f:HookManager.Callbacks.cs" caret="4760" fromTop="1" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:EventArgsAndTimeTaken.cs" caret="873" fromTop="22" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:Repository.cs" caret="3356" fromTop="3" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/d:Properties/f:Resources.resx" caret="6335" fromTop="6" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:NewScenario.cs" caret="3982" fromTop="11" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:PixTracker.cs" caret="432" fromTop="18" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ViewEditScenario.cs" caret="845" fromTop="6" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:IAssertionAction.cs" caret="56" fromTop="2" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:AssertionAction.cs" caret="235" fromTop="8" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:AssertBox.cs" caret="869" fromTop="11" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="5906" fromTop="0" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ScenarioPlayResult.cs" caret="498" fromTop="19" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:Scenario.cs" caret="841" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="6815" fromTop="15" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="3447" fromTop="4" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="3137" fromTop="6" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="3137" fromTop="11" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="3137" fromTop="9" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="2777" fromTop="2" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="4073" fromTop="21" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="4145" fromTop="23" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:AssertionAction.cs" caret="2072" fromTop="9" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ScenarioPlayResult.cs" caret="503" fromTop="14" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="3247" fromTop="21" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="3065" fromTop="26" />
+      <File id="9781DC0C-6265-4509-A787-C1DC801E1879/f:RecordAction.cs" caret="2080" fromTop="8" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ViewEditScenario.cs" caret="1186" fromTop="17" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ViewEditScenario.cs" caret="1665" fromTop="19" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:Scenario.cs" caret="1681" fromTop="19" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:Scenario.cs" caret="2084" fromTop="25" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:Scenario.cs" caret="2030" fromTop="7" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:NewScenario.cs" caret="3175" fromTop="5" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:NewScenario.cs" caret="6569" fromTop="16" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:NewScenario.cs" caret="4041" fromTop="13" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:PixTracker.cs" caret="259" fromTop="11" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ScenarioPlayResult.cs" caret="13" fromTop="0" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ScenarioPlayResult.cs" caret="173" fromTop="7" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ScenarioPlayResult.cs" caret="730" fromTop="26" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ViewEditScenario.cs" caret="1640" fromTop="26" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:ViewEditScenario.cs" caret="1456" fromTop="5" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:AssertBox.cs" caret="13" fromTop="0" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:Scenario.cs" caret="556" fromTop="14" />
+      <File id="6E64C3E1-4CF6-4180-A978-612EA533A4E7/f:Scenario.cs" caret="376" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
